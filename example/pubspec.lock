@@ -28,9 +28,11 @@ packages:
   charts_common:
     dependency: transitive
     description:
-      path: "../charts_common"
-      relative: true
-    source: path
+      path: charts_common
+      ref: main
+      resolved-ref: "559ce590c1e2394816784fda3e143263b05a92b0"
+      url: "https://github.com/Project112224/charts_flutter_plus"
+    source: git
     version: "0.12.0"
   charts_flutter_plus:
     dependency: "direct main"
